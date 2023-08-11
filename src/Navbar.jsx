@@ -36,7 +36,7 @@ const Image = styled.img`
   height: 60px;
   object-fit: cover;
   border-radius: 5px;
-  background-color:blue;
+  
 `;
 
 const Menu = styled.div`
